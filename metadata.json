@@ -1,0 +1,6 @@
+{
+  "name": "NN Salon - Luxury Beauty & Grooming",
+  "description": "Premium, modern salon website for NN Salon (Naureen Nawaz Salon) in D Ground, Faisalabad featuring luxury hair, beauty, nails, spa, and grooming services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
